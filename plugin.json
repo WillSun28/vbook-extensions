@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "author": "Will Sun",
+    "description": "Will Sun's repository"
+  },
+  "data": [
+    {
+      "name": "NetTruyen",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/truyenqq.com.vn.zip",
+      "version": 1,
+      "source": "https://nettruyen.com.vn",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/truyenqq.com.vn.png",
+      "description": "Đọc truyện trên trang nettruyen.com.vn",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "TruyenQQ",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/truyenqq.com.vn.zip",
+      "version": 1,
+      "source": "https://truyenqq.com.vn",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/truyenqq.com.vn.png",
+      "description": "Đọc truyện trên trang truyenqq.com.vn",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "HentaiVN",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/hentaivnx.com.zip",
+      "version": 1,
+      "source": "https://www.hentaivnx.com",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hentaivnx.com.png",
+      "description": "Đọc truyện trên trang hentaivnx.com",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "Tiệm Truyện Chữ",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/tiemtruyenchu.com.zip",
+      "version": 1,
+      "source": "https://www.tiemtruyenchu.com",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/tiemtruyenchu.com.png",
+      "description": "Đọc truyện trên trang tiemtruyenchu.com",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
