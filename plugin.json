@@ -48,6 +48,17 @@
       "description": "Đọc truyện trên trang tiemtruyenchu.com",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "Dịch Truyện AI",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/truyendichai.com.zip",
+      "version": 1,
+      "source": "https://truyendichai.com",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/truyendichai.com.png",
+      "description": "Đọc truyện trên trang truyendichai.com",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
