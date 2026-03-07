@@ -59,6 +59,18 @@
       "description": "Đọc truyện trên trang truyendichai.com",
       "type": "novel",
       "locale": "vi_VN"
+    },
+    {
+      "name": "WebtoonScan",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/webtoonscan.com.zip",
+      "version": 1,
+      "source": "https://webtoonscan.com",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/webtoonscan.com.png",
+      "description": "Read comics on webtoonscan.com",
+      "type": "comic",
+      "locale": "en_US",
+      "tag": "nsfw"
     }
   ]
 }
