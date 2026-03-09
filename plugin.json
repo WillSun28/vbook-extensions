@@ -71,6 +71,17 @@
       "type": "comic",
       "locale": "en_US",
       "tag": "nsfw"
+    },
+    {
+      "name": "Truyện Net",
+      "author": "Will Sun",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/truyennet.vn.zip",
+      "version": 1,
+      "source": "https://truyennet.vn",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/truyennet.vn.png",
+      "description": "Đọc truyện trên trang truyennet.vn",
+      "type": "novel",
+      "locale": "vi_VN"
     }
   ]
 }
