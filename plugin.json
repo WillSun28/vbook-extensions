@@ -96,7 +96,7 @@
     {
       "name": "WebtoonScan",
       "author": "Will Sun",
-      "version": 1,
+      "version": 2,
       "source": "https://webtoonscan.com",
       "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/webtoonscan.com.zip",
       "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/webtoonscan.com.png",
