@@ -49,6 +49,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Sói Xám (Fanqie)",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://api.langge.cf",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/api.langge.cf.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/api.langge.cf.png",
+      "description": "Đọc truyện Fanqie trên Sói Xám",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "po18sm",
       "author": "Will Sun",
       "version": 1,
