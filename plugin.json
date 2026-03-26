@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Tiệm Truyện Chữ (Beta)",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://tiemtruyenchu.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/tiemtruyenchu.com(beta).zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/tiemtruyenchu.com.png",
+      "description": "Đọc truyện trên trang tiemtruyenchu.com",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "NetTruyen",
       "author": "Will Sun",
       "version": 1,
