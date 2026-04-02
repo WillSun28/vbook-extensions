@@ -49,6 +49,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "TruyenCV.io",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://truyencv.io",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/truyencv.io.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/truyencv.io.png",
+      "description": "Đọc truyện trên trang truyencv.io",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Sói Xám (Fanqie)",
       "author": "Will Sun",
       "version": 12,
