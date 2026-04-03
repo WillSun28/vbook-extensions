@@ -95,11 +95,11 @@
     {
       "name": "NetTruyenViet",
       "author": "Will Sun",
-      "version": 1,
-      "source": "https://nettruyenviet1.com",
-      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/nettruyenviet1.com.zip",
-      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/nettruyenviet1.com.png",
-      "description": "Đọc truyện trên trang nettruyenviet1.com",
+      "version": 2,
+      "source": "https://nettruyenviet10.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/nettruyenviet10.com.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/nettruyenviet10.com.png",
+      "description": "Đọc truyện trên trang nettruyenviet10.com",
       "type": "comic",
       "locale": "vi_VN"
     },
