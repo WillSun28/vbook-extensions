@@ -29,7 +29,7 @@
   
 ### 🍎 iOS
 - **Bản ổn định:**  
-  ❌ Hiện chưa hỗ trợ  
+  ❌ Không có 
 
 - **Bản Beta:**  
   👉 https://t.me/vbook_beta_up_tracker_chanhnh  
