@@ -4,7 +4,7 @@
 
 | STT | Tên Extension | Loại | Ngôn ngữ | Website | Version |
 |:---:|:-------------:|:----:|:--------:|:-------:|:-------:|
-| 1 | Tiệm Truyện Chữ | Truyện chữ | Tiếng Việt | https://tiemtruyenchu.com | v9 |
+| 1 | Tiệm Truyện Chữ | Truyện chữ | Tiếng Việt | https://tiemtruyenchu.com | v10 |
 | 2 | NetTruyen | Truyện chữ | Tiếng Việt | https://nettruyen.com.vn | v2 |
 | 3 | Truyện Net | Truyện chữ | Tiếng Việt | https://truyennet.vn | v3 |
 | 4 | Truyện Dịch AI | Truyện chữ | Tiếng Việt | https://truyendichai.com | v3 |
