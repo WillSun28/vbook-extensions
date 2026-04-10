@@ -15,7 +15,7 @@
 | 9 | TruyenQQ | Truyện tranh | Tiếng Việt | https://truyenqq.com.vn | v2 |
 | 10 | NetTruyenViet | Truyện tranh | Tiếng Việt | https://nettruyenviet10.com | v2 |
 | 11 | HentaiVN 🔞 | Truyện tranh | Tiếng Việt | https://www.hentaivnx.com | v1 |
-| 12 | WebtoonScan 🔞 | Truyện tranh | Tiếng Anh | https://webtoonscan.com | v3 |
+| 12 | WebtoonScan 🔞 | Truyện tranh | Tiếng Anh | https://webtoonscan.com | v4 |
 
 ## ⬇️ Download
 
