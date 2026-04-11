@@ -9,7 +9,7 @@
 | 3 | Truyện Net | Truyện chữ | Tiếng Việt | https://truyennet.vn | v3 |
 | 4 | Truyện Dịch AI | Truyện chữ | Tiếng Việt | https://truyendichai.com | v3 |
 | 5 | TruyenCV.io | Truyện chữ | Tiếng Việt | https://truyencv.io | v2 |
-| 6 | Valvrareteam | Truyện chữ | Tiếng Việt | https://valvrareteam.net | v2 |
+| 6 | Valvrareteam | Truyện chữ | Tiếng Việt | https://valvrareteam.net | v3 |
 | 7 | Sói Xám (Fanqie) | Truyện chữ | Tiếng Trung | https://api.langge.cf | v14 |
 | 8 | po18sm | Truyện chữ | Tiếng Trung | https://www.po18sm.com | v4 |
 | 9 | TruyenQQ | Truyện tranh | Tiếng Việt | https://truyenqq.com.vn | v2 |
