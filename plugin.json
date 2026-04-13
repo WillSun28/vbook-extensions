@@ -127,13 +127,25 @@
       "tag": "nsfw"
     },
     {
-      "name": "WebtoonScan",
+      "name": "ManhwaBuddy",
       "author": "Will Sun",
       "version": 4,
       "source": "https://webtoonscan.com",
       "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/webtoonscan.com.zip",
       "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/webtoonscan.com.png",
       "description": "Read comics on webtoonscan.com",
+      "type": "comic",
+      "locale": "en_US",
+      "tag": "nsfw"
+    },
+    {
+      "name": "ManhwaBuddy",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://manhwabuddy.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/manhwabuddy.com.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/manhwabuddy.com.png",
+      "description": "Read comics on manhwabuddy.com",
       "type": "comic",
       "locale": "en_US",
       "tag": "nsfw"
