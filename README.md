@@ -16,7 +16,7 @@
 | NetTruyenViet | <img src="icon/nettruyenviet10.com.png" width="30"> | Truyện tranh | Tiếng Việt | https://nettruyenviet10.com | v2 |
 | HentaiVN 🔞 | <img src="icon/hentaivnx.com.png" width="30"> | Truyện tranh | Tiếng Việt | https://www.hentaivnx.com | v1 |
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Truyện tranh | Tiếng Anh | https://webtoonscan.com | v4 |
-| ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Truyện tranh | Tiếng Anh | https://manhwabuddy.com | v1 |
+| ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Truyện tranh | Tiếng Anh | https://manhwabuddy.com | v2 |
 
 ## ⬇️ Download
 
