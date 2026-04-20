@@ -149,6 +149,30 @@
       "type": "comic",
       "locale": "en_US",
       "tag": "nsfw"
+    },
+    {
+      "name": "HentaiVietsub.com",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://hentaivietsub.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/hentaivietsub.com.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hentaivietsub.com.png",
+      "description": "Xem video trên hentaivietsub.com",
+      "type": "video",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "WatchHentai.net",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://watchhentai.net",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/watchhentai.net.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/watchhentai.net.png",
+      "description": "Watch videos on watchhentai.net",
+      "type": "video",
+      "locale": "en_US",
+      "tag": "nsfw"
     }
   ]
 }
