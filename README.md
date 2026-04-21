@@ -9,7 +9,7 @@
 | Truyện Net | <img src="icon/truyennet.vn.png" width="30"> | Novel | Tiếng Việt | https://truyennet.vn | v3 |
 | Truyện Dịch AI | <img src="icon/truyendichai.com.png" width="30"> | Novel | Tiếng Việt | https://truyendichai.com | v3 |
 | TruyenCV.io | <img src="icon/truyencv.io.png" width="30"> | Novel | Tiếng Việt | https://truyencv.io | v2 |
-| Valvrareteam | <img src="icon/valvrareteam.net.png" width="30"> | Novel | Tiếng Việt | https://valvrareteam.net | v4 |
+| Valvrareteam | <img src="icon/valvrareteam.net.png" width="30"> | Novel | Tiếng Việt | https://valvrareteam.net | v5 |
 | Sói Xám (Fanqie) | <img src="icon/api.langge.cf.png" width="30"> | Novel | Tiếng Trung | https://api.langge.cf | v14 |
 | po18sm | <img src="icon/po18sm.com.png" width="30"> | Novel | Tiếng Trung | https://www.po18sm.com | v4 |
 | TruyenQQ | <img src="icon/truyenqq.com.vn.png" width="30"> | Comic | Tiếng Việt | https://truyenqq.com.vn | v2 |
