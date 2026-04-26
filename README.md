@@ -18,8 +18,8 @@
 | VinaHentai 🔞 | <img src="icon/vinahentai.me.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.me | v2 |
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Comic | Tiếng Anh | https://webtoonscan.com | v4 |
 | ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Comic | Tiếng Anh | https://manhwabuddy.com | v3 |
-| HentaiVietsub.com 🔞 | <img src="icon/hentaivietsub.com.png" width="30"> | Video | Tiếng Việt | https://hentaivietsub.com | v1 |
-| WatchHentai.net 🔞 | <img src="icon/watchhentai.net.png" width="30"> | Video | Tiếng Anh | https://watchhentai.net | v1 |
+| HentaiVietsub.com 🔞 | <img src="icon/hentaivietsub.com.png" width="30"> | Video | Tiếng Việt | https://hentaivietsub.com | v2 |
+| WatchHentai.net 🔞 | <img src="icon/watchhentai.net.png" width="30"> | Video | Tiếng Anh | https://watchhentai.net | v2 |
 
 ## ⬇️ Download
 
