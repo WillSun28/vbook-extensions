@@ -14,7 +14,7 @@
 | po18sm | <img src="icon/po18sm.com.png" width="30"> | Novel | Tiếng Trung | https://www.po18sm.com | v4 |
 | TruyenQQ | <img src="icon/truyenqq.com.vn.png" width="30"> | Comic | Tiếng Việt | https://truyenqq.com.vn | v2 |
 | NetTruyenViet | <img src="icon/nettruyenviet10.com.png" width="30"> | Comic | Tiếng Việt | https://nettruyenviet10.com | v2 |
-| HentaiVN 🔞 | <img src="icon/hentaivnx.com.png" width="30"> | Comic | Tiếng Việt | https://www.hentaivnx.com | v1 |
+| HentaiVN 🔞 | <img src="icon/hentaivnx.com.png" width="30"> | Comic | Tiếng Việt | https://www.hentaivnx.com | v2 |
 | VinaHentai 🔞 | <img src="icon/vinahentai.me.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.me | v2 |
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Comic | Tiếng Anh | https://webtoonscan.com | v4 |
 | ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Comic | Tiếng Anh | https://manhwabuddy.com | v3 |
