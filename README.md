@@ -10,7 +10,7 @@
 | Truyện Dịch AI | <img src="icon/truyendichai.com.png" width="30"> | Novel | Tiếng Việt | https://truyendichai.com | v3 |
 | TruyenCV.io | <img src="icon/truyencv.io.png" width="30"> | Novel | Tiếng Việt | https://truyencv.io | v2 |
 | Valvrareteam | <img src="icon/valvrareteam.net.png" width="30"> | Novel | Tiếng Việt | https://valvrareteam.net | v5 |
-| Sói Xám (Fanqie) | <img src="icon/api.langge.cf.png" width="30"> | Novel | Tiếng Trung | https://api.langge.cf | v15 |
+| Sói Xám (Fanqie) | <img src="icon/api.langge.cf.png" width="30"> | Novel | Tiếng Trung | https://api.langge.cf | v16 |
 | po18sm | <img src="icon/po18sm.com.png" width="30"> | Novel | Tiếng Trung | https://www.po18sm.com | v4 |
 | TruyenQQ | <img src="icon/truyenqq.com.vn.png" width="30"> | Comic | Tiếng Việt | https://truyenqq.com.vn | v2 |
 | NetTruyenViet | <img src="icon/nettruyenviet10.com.png" width="30"> | Comic | Tiếng Việt | https://nettruyenviet10.com | v2 |
@@ -29,7 +29,7 @@
 
 - **Bản Beta:**  
   👉 https://t.me/vbook_beta_up_tracker_chanhnh  
-  > Nhận thông báo cập nhật và file cài đặt mới nhất tại kênh này.
+  > Nhận thông báo cập nhật và file cài đặt mới nhất tại kênh này
   
 ### 🍎 iOS
 - **Bản ổn định:**  
@@ -37,7 +37,7 @@
 
 - **Bản Beta:**  
   👉 https://t.me/vbook_beta_up_tracker_chanhnh  
-  > Nhận thông báo cập nhật và file cài đặt mới nhất tại kênh này.
+  > Nhận thông báo cập nhật và file cài đặt mới nhất tại kênh này
 
 ### 💻 Desktop
 - **Windows:** ⏳ Đang cập nhật  
@@ -53,7 +53,18 @@ https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plu
 
 ## 🔧 Cách thêm nguồn truyện
 
+### Cách 1: Thêm thủ công
+
 | 1. Chọn phần mở rộng ở mục cá nhân | 2. Ấn vào dấu ⋮ và chọn quản lý nguồn | 3. Chọn dấu + và dán link nguồn |
 |:-------------------:|:--------------------:|:----------------------------:|
 | <img src='tutorial/1.jpg' width='300'> | <img src='tutorial/2.jpg' width='300'> | <img src='tutorial/3.jpg' width='300'> |
 
+### Cách 2: Thêm nhanh bằng deep link
+
+> Yêu cầu: Đã cài **vBook bản Beta** trên thiết bị
+
+Bấm vào link bên dưới để mở VBook và cài nguồn tự động:
+
+👉 [Thêm nguồn VBook Extensions (Will Sun)](vbookapp://install-source?url=https%3A%2F%2Fraw.githubusercontent.com%2FWillSun28%2Fvbook-extensions%2Frefs%2Fheads%2Fmain%2Fplugin.json)
+
+Nếu link không mở được app, hãy dùng **Cách 1** và dán link nguồn thủ công
