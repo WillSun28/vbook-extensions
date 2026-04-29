@@ -1,4 +1,6 @@
-# Vbook Extensions
+# vBook Extensions
+
+ vBook là ứng dụng tích hợp quản lý và cập nhật truyện trên nhiều trang web truyên khác nhau, giúp bạn thuận tiện hơn trong việc theo dõi các bộ truyện yêu thích. Ở đây, mình đã phát triển một số extension cho vBook, giúp người dùng có thể thêm nhiều nguồn truyện mới vào ứng dụng một cách dễ dàng.
 
 ## 📦 Danh sách Extensions
 
@@ -57,7 +59,7 @@ https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plu
 
 | 1. Chọn phần mở rộng ở mục cá nhân | 2. Ấn vào dấu ⋮ và chọn quản lý nguồn | 3. Chọn dấu + và dán link nguồn |
 |:-------------------:|:--------------------:|:----------------------------:|
-| <img src='asset/tutorial-1.jpg' width='300'> | <img src='asset/tutorial-2.jpg' width='300'> | <img src='asset/tutorial-3.jpg' width='300'> |
+| <img src='assets/tutorial-1.jpg' width='300'> | <img src='assets/tutorial-2.jpg' width='300'> | <img src='assets/tutorial-3.jpg' width='300'> |
 
 ### Cách 2: Thêm nhanh bằng deep link
 
