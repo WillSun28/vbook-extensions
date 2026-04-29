@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plu
 
 | 1. Chọn phần mở rộng ở mục cá nhân | 2. Ấn vào dấu ⋮ và chọn quản lý nguồn | 3. Chọn dấu + và dán link nguồn |
 |:-------------------:|:--------------------:|:----------------------------:|
-| <img src='tutorial/1.jpg' width='300'> | <img src='tutorial/2.jpg' width='300'> | <img src='tutorial/3.jpg' width='300'> |
+| <img src='asset/tutorial-1.jpg' width='300'> | <img src='asset/tutorial-2.jpg' width='300'> | <img src='asset/tutorial-3.jpg' width='300'> |
 
 ### Cách 2: Thêm nhanh bằng deep link
 
@@ -65,6 +65,6 @@ https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plu
 
 Bấm vào link bên dưới để mở VBook và cài nguồn tự động:
 
-👉 [Thêm nguồn VBook Extensions (Will Sun)](vbookapp://install-source?url=https%3A%2F%2Fraw.githubusercontent.com%2FWillSun28%2Fvbook-extensions%2Frefs%2Fheads%2Fmain%2Fplugin.json)
+👉 [Thêm nguồn VBook Extensions (Will Sun)](https://willsun28.github.io/vbook-extensions/install.html)
 
 Nếu link không mở được app, hãy dùng **Cách 1** và dán link nguồn thủ công
