@@ -65,6 +65,6 @@ https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plu
 
 Bấm vào link bên dưới để mở VBook và cài nguồn tự động:
 
-👉 [Thêm nguồn VBook Extensions (Will Sun)](https://willsun28.github.io/vbook-extensions/install.html)
+👉 [Thêm nguồn VBook Extensions (Will Sun)](https://willsun28.github.io/vbook-extensions/asset/install.html)
 
 Nếu link không mở được app, hãy dùng **Cách 1** và dán link nguồn thủ công
