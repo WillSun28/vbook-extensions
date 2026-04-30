@@ -1,6 +1,6 @@
 # vBook Extensions
 
- vBook là ứng dụng tích hợp quản lý và cập nhật truyện trên nhiều trang web truyên khác nhau, giúp bạn thuận tiện hơn trong việc theo dõi các bộ truyện yêu thích. Ở đây, mình đã phát triển một số extension cho vBook, giúp người dùng có thể thêm nhiều nguồn truyện mới vào ứng dụng một cách dễ dàng.
+vBook là ứng dụng hỗ trợ quản lý, theo dõi và cập nhật truyện từ nhiều website khác nhau, giúp bạn dễ dàng cập nhật các chương mới của những bộ truyện yêu thích tại một nơi. Bên cạnh tính năng đọc truyện, vBook còn hỗ trợ xem video, mang đến trải nghiệm giải trí đa dạng hơn. Tại đây, mình đã phát triển một số extension dành cho vBook, giúp người dùng dễ dàng thêm nhiều nguồn truyện mới vào ứng dụng và mở rộng lựa chọn nội dung theo nhu cầu.
 
 ## 📦 Danh sách Extensions
 
@@ -17,7 +17,7 @@
 | TruyenQQ | <img src="icon/truyenqq.com.vn.png" width="30"> | Comic | Tiếng Việt | https://truyenqq.com.vn | v2 |
 | NetTruyenViet | <img src="icon/nettruyenviet10.com.png" width="30"> | Comic | Tiếng Việt | https://nettruyenviet10.com | v2 |
 | HentaiVN 🔞 | <img src="icon/hentaivnx.com.png" width="30"> | Comic | Tiếng Việt | https://www.hentaivnx.com | v2 |
-| VinaHentai 🔞 | <img src="icon/vinahentai.me.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.me | v2 |
+| VinaHentai 🔞 | <img src="icon/vinahentai.me.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.me | v3 |
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Comic | Tiếng Anh | https://webtoonscan.com | v4 |
 | ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Comic | Tiếng Anh | https://manhwabuddy.com | v3 |
 | HentaiVietsub.com 🔞 | <img src="icon/hentaivietsub.com.png" width="30"> | Video | Tiếng Việt | https://hentaivietsub.com | v2 |
