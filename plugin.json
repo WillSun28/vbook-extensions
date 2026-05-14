@@ -169,7 +169,7 @@
       "source": "https://hentaivietsub.com",
       "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/hentaivietsub.com.zip",
       "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hentaivietsub.com.png",
-      "description": "Xem video trên hentaivietsub.com",
+      "description": "Xem phim trên hentaivietsub.com",
       "type": "video",
       "locale": "vi_VN",
       "tag": "nsfw"
@@ -185,6 +185,17 @@
       "type": "video",
       "locale": "en_US",
       "tag": "nsfw"
+    },
+    {
+      "name": "HHTQHAY.VIP",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://hhtqhay.vip",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/hhtqhay.vip.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hhtqhay.vip.png",
+      "description": "Xem phim trên hhtqhay.vip",
+      "type": "video",
+      "locale": "vi_VN"
     }
   ]
 }
