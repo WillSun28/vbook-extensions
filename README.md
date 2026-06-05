@@ -6,7 +6,7 @@ vBook là ứng dụng hỗ trợ quản lý, theo dõi và cập nhật truyệ
 
 | Tên Extension | Icon | Loại | Ngôn ngữ | Website | Version |
 |:-------------:|:----:|:----:|:--------:|:-------:|:-------:|
-| Tiệm Truyện Chữ | <img src="icon/tiemtruyenchu.com.png" width="30"> | Novel | Tiếng Việt | https://tiemtruyenchu.com | v10 |
+| Tiệm Truyện Chữ | <img src="icon/tiemtruyenchu.com.png" width="30"> | Novel | Tiếng Việt | https://tiemtruyenchu.com | v11 |
 | NetTruyen | <img src="icon/nettruyen.com.vn.png" width="30"> | Novel | Tiếng Việt | https://nettruyen.com.vn | v2 |
 | Truyện Net | <img src="icon/truyennet.vn.png" width="30"> | Novel | Tiếng Việt | https://truyennet.vn | v3 |
 | Truyện Dịch AI | <img src="icon/truyendichai.com.png" width="30"> | Novel | Tiếng Việt | https://truyendichai.com | v3 |
