@@ -17,7 +17,7 @@ vBook là ứng dụng hỗ trợ quản lý, theo dõi và cập nhật truyệ
 | TruyenQQ | <img src="icon/truyenqq.com.vn.png" width="30"> | Comic | Tiếng Việt | https://truyenqq.com.vn | v2 |
 | NetTruyenViet | <img src="icon/nettruyenviet10.com.png" width="30"> | Comic | Tiếng Việt | https://nettruyenviet10.com | v2 |
 | HentaiVN 🔞 | <img src="icon/hentaivnx.com.png" width="30"> | Comic | Tiếng Việt | https://www.hentaivnx.com | v2 |
-| VinaHentai 🔞 | <img src="icon/vinahentai.me.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.me | v4 |
+| VinaHentai 🔞 | <img src="icon/vinahentai.bond.png" width="30"> | Comic | Tiếng Việt | https://vinahentai.bond | v5 |
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Comic | Tiếng Anh | https://webtoonscan.com | v4 |
 | ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Comic | Tiếng Anh | https://manhwabuddy.com | v3 |
 | HentaiVietsub.com 🔞 | <img src="icon/hentaivietsub.com.png" width="30"> | Video | Tiếng Việt | https://hentaivietsub.com | v2 |
