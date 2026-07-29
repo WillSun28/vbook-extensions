@@ -8,7 +8,7 @@
       "name": "Tiệm Truyện Chữ",
       "author": "Will Sun",
       "version": 12,
-      "source": "https://tiemtruyenchu.com",
+      "source": "https://tiemtruyenchu.cloud",
       "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/tiemtruyenchu.com.zip",
       "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/tiemtruyenchu.com.png",
       "description": "Đọc truyện trên trang tiemtruyenchu.com",
@@ -73,7 +73,7 @@
     {
       "name": "Sói Xám (Fanqie)",
       "author": "Will Sun",
-      "version": 20,
+      "version": 21,
       "source": "https://api.langge.cf",
       "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/api.langge.cf.zip",
       "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/api.langge.cf.png",
