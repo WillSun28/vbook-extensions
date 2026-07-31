@@ -93,6 +93,17 @@
       "locale": "zh_CN"
     },
     {
+      "name": "xsw",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://m.xsw.tw",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/m.xsw.tw.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/m.xsw.tw.png",
+      "description": "Đọc truyện trên trang m.xsw.tw",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    },
+    {
       "name": "TruyenQQ",
       "author": "Will Sun",
       "version": 2,
