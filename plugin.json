@@ -126,6 +126,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Góc Truyện Tranh",
+      "author": "Will Sun",
+      "version": 1,
+      "source": "https://goctruyentranhvui41.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/goctruyentranhvui41.com.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/goctruyentranhvui41.com.png",
+      "description": "Đọc truyện trên trang goctruyentranhvui41.com",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
       "name": "HentaiVN",
       "author": "Will Sun",
       "version": 2,
