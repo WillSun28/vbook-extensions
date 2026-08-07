@@ -53,7 +53,7 @@ vBook là ứng dụng hỗ trợ quản lý, theo dõi và cập nhật truyệ
 ## 🔗 Link nguồn
 
 ```
-https://raw.githubusercontent.com/WillSun28/vbook-extensions/refs/heads/main/plugin.json
+https://raw.githubusercontent.com/DuongKhang2810/vbook-extensions/refs/heads/main/plugin.json
 ```
 
 ## 🔧 Cách thêm nguồn truyện
