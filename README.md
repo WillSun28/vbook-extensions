@@ -23,7 +23,7 @@ vBook là ứng dụng hỗ trợ quản lý, theo dõi và cập nhật truyệ
 | WebtoonScan 🔞 | <img src="icon/webtoonscan.com.png" width="30"> | Comic | Tiếng Anh | https://webtoonscan.com | v4 |
 | ManhwaBuddy 🔞 | <img src="icon/manhwabuddy.com.png" width="30"> | Comic | Tiếng Anh | https://manhwabuddy.com | v3 |
 | HentaiVietsub.com 🔞 | <img src="icon/hentaivietsub.com.png" width="30"> | Video | Tiếng Việt | https://hentaivietsub.com | v2 |
-| WatchHentai.net 🔞 | <img src="icon/watchhentai.net.png" width="30"> | Video | Tiếng Anh | https://watchhentai.net | v2 |
+| WatchHentai.net 🔞 | <img src="icon/watchhentai.net.png" width="30"> | Video | Tiếng Anh | https://watchhentai.net | v3 |
 | HHTQHAY.VIP | <img src="icon/hhtqhay.vip.png" width="30"> | Video | Tiếng Việt | https://hhtqhay.vip | v2 |
 
 ## ⬇️ Download
