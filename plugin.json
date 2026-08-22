@@ -139,11 +139,11 @@
     {
       "name": "HentaiVN",
       "author": "Will Sun",
-      "version": 2,
-      "source": "https://www.hentaivnx.com",
-      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/hentaivnx.com.zip",
-      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hentaivnx.com.png",
-      "description": "Đọc truyện trên trang hentaivnx.com",
+      "version": 3,
+      "source": "https://hentaivnreal.com",
+      "path": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/zip/hentaivnreal.com.zip",
+      "icon": "https://raw.githubusercontent.com/WillSun28/vbook-extensions/main/icon/hentaivnreal.com.png",
+      "description": "Đọc truyện trên trang hentaivnreal.com",
       "type": "comic",
       "locale": "vi_VN",
       "tag": "nsfw"
